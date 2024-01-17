@@ -1,3 +1,4 @@
 # Project-demo
-This is Important Git respository
+This is an Important Git repository.
+<br>
 Author - Employee
